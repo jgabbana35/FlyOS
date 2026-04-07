@@ -15,11 +15,11 @@ DB_PATH       = str(BASE_DIR / "fly_memory.db")
 WORKSPACE_DIR.mkdir(exist_ok=True)
 
 # ── API Keys ───────────────────────────────────────────────────────────────────
-GEMINI_API_KEY     = "AIzaSyA5geTuBZxaQO007WZOkXPTKcT5u6guggY"
-OPENROUTER_API_KEY = "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"
-BASE44_API_KEY     = "132c6e177fed46159968dee4c725a562"
-BASE44_AGENT_ID    = "69d41c99ce92d7929b4ffa4b"
-BASE44_CONVO_ID    = "69d41c9a6e1e12f63189d134"
+GEMINI_API_KEY     = ""
+OPENROUTER_API_KEY = ""
+BASE44_API_KEY     = ""
+BASE44_AGENT_ID    = ""
+BASE44_CONVO_ID    = "
 
 # ── Models ─────────────────────────────────────────────────────────────────────
 MODEL_GEMINI     = "gemini-2.5-flash"
