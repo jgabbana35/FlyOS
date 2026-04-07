@@ -1,0 +1,30 @@
+# Fly OS v5.0 — Requirements
+# Install: pip install -r requirements.txt
+
+# Core AI
+google-genai>=1.7.0
+
+# GUI
+customtkinter>=5.2.2
+pillow>=10.3.0
+
+# Networking
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Document generation & reading
+python-docx>=1.1.0
+reportlab>=4.1.0
+python-pptx>=0.6.23
+openpyxl>=3.1.2
+
+# Utility
+pyperclip>=1.8.2
+
+# Optional — video frame analysis (install separately if needed)
+# opencv-python>=4.9.0
+
+# Optional — spreadsheet reading
+pandas>=2.1.0
+xlrd>=2.0.1
